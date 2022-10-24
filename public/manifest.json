@@ -1,0 +1,15 @@
+{
+  "short_name": "Bad Bank",
+  "name": "Elizabeth Garcia Bad Bank",
+  "icons": [
+    {
+      "src": "EGB.png",
+      "type": "image/png",
+      "sizes": "200x267"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#5e171e",
+  "background_color": "#ffffff"
+}
