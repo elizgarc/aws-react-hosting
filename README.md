@@ -1,5 +1,5 @@
 # Bad Bank App
-> Section 2 Final Project MIT Full Stack Professional Certificate Program
+> MIT Full Stack Professional Certificate Program
 
 ## Description
 Create a small Front End Banking Application with React.
@@ -7,10 +7,6 @@ Create a small Front End Banking Application with React.
 - Build, test, and deploy a React application
 - Design and build UI components using React
 - Deploy a React application using Amazon Web Services
-
-This project was started during week 18 of the MIT xPro Full Stack Professional Certificate Program. The **goals for the week 18 project** were to create the shell of a front end single page application using React and React-Router.
-
-The **goals for the final project** were to use the React single page application shell and utilize React functional components to put simple forms on multiple pages, verify form inputs, display success/error messages, save user data using React Context, display a record of all user submissions and transactions. No security implementation is part of this project.
 
 ### Goals:
 1. Navigation Bar
@@ -74,10 +70,9 @@ The **goals for the final project** were to use the React single page applicatio
     - Also made sure to have navbar and other elements be optimized for mobile browsing
 
 ## To Run
-This project can be viewed on a web browser at:
-- GitHub Pages deployment: [kparsonsdesign.github.io/badbank/](https://kparsonsdesign.github.io/badbank/)
-- Amazon Web Services deployment: [https://katherine-parsons-bankingapp.s3.us-east-1.amazonaws.com/index.html](https://katherine-parsons-bankingapp.s3.us-east-1.amazonaws.com/index.html)
-- Amazon Amplify App continuous deployment from GitHub repo: [https://master.d2gn8uf333xpvj.amplifyapp.com/](https://master.d2gn8uf333xpvj.amplifyapp.com/)
+The project can be viewed by visiting the link below.
+- Amazon Web Services deployment: http://elizabethgarciabadbank.s3-website-us-east-1.amazonaws.com/#/login/
+
 
 ## Roadmap
 1. Include buttons on some of the pages/routes navigate to other pages, in addition to the navbar navigation.
